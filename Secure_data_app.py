@@ -1,5 +1,3 @@
-#Develop a streamlit-based secure data storage and retrival system
-
 import streamlit as st
 import hashlib
 import json
