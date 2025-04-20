@@ -5,7 +5,6 @@ import os
 import time
 from base64 import urlsafe_b64encode
 from hashlib import pbkdf2_hmac
-from cryptography.fernet import Fernet  # Ensure this is installed
 
 # === Constants ===
 DATA_FILE = "secure_data.json"
