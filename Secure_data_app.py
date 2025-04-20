@@ -2,7 +2,7 @@ import streamlit as st
 import hashlib
 import json
 import time
-import Fernet from cryptography.fernet 
+from cryptography.fernet import Fernet 
 import base64
 import uuid
 
